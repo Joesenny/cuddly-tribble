@@ -16,12 +16,11 @@ Media inside the **static** folder is served from `/`.
 ![Svelte](favicon.png)
 
 
-## Markddown
-
-Hey Friends - thanks to Joy of Code 
+## Thanks JOY OF CODE for a lesson in Svelte and Bloggin
+Hey friends! 👋
 
 ```ts
-function greet (name: string) {
-    console.log('Hey ${name}!')
+function greet(name: string) {
+	console.log(`Hey ${name}! 👋`)
 }
 ```

@@ -8,6 +8,11 @@ categories:
 published: true
 ---
 
+<script>
+    import Counter from './counter.svelte'
+</script>
+
+
 
 ## Svelte
 
@@ -24,3 +29,5 @@ function greet(name: string) {
 	console.log(`Hey ${name}! 👋`)
 }
 ```
+## Counter
+<Counter />

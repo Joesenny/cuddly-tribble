@@ -7,8 +7,9 @@ categories:
     - svelte
 published: true
 ---
+## Table of Contents
 
-## Markddown
+## Markdown
 
 thanks to Joy of Code for a lesson on Svelte & blogs
 

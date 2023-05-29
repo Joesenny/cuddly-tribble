@@ -22,9 +22,9 @@
   <!-- Tags -->
 	<div class="tags">
 		{#each data.meta.categories as category}
-            <a href={`/category/${category}`}>
+            
                 <span class="surface-4">&num;{category}</span>
-            </a>
+            
 		{/each}
 	</div>
 
@@ -55,7 +55,7 @@
 		margin-top: var(--size-7);
 	}
 
-	.tags a > * {
+	.tags  > * {
 		padding: var(--size-2) var(--size-3);
 		border-radius: var(--radius-round);
 	}
